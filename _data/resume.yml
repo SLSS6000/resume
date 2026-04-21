@@ -1,33 +1,33 @@
 title: Résumé
-name: YOUR NAME
-jobtitle: Your Job Title
+name: 胡晓科
+jobtitle: Python后端工程师(偏AI应用方向)
 contact:
   - icon: fa-envelope
-    text: youremail@example.com
+    text: 3489825902@qq.com
   - icon: fa-phone-square
-    text: your-phone-num
+    text: (+86) 19151045652
   - icon: fa-globe
     text: your-website.com
     link: https://crispgm.github.io/resume/resume.html
   - icon: fa-github
-    text: your-github
-    link: https://github.com/crispgm/resume
+    text: SLSS6000
+    link: https://github.com/SLSS6000/resume
 education:
-  - university: Your First University
+  - university: 武汉工程大学邮电与信息技术学院
     duration: Jul 2011 - Dec 2012
     location: Consectetur adipiscing elit
-    major: Lorem ipsum dolor sit amet
+    major: 计算机科学与技术 | 本科
   - university: Your Second University
     duration: Aug 2007 - Jun 2011
     location: Ut enim ad minim veniam
     major: Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 skills:
-  - title: Skill Group 1
-    items: Lorem, Ipsum, Dolor, Sit, Amet
-  - title: Skill Group 2
-    items: Consectetur, Adipiscing, Elit
-  - title: Skill Group 3
-    items: Sed do, Eiusmod, Tempor, Incididunt
+  - title: 语言
+    items: HTML/CSS JavaScript Vue C Python Java
+  - title: 工具/其他
+    items: Git VSCode PS
+  - title: AI应用
+    items: streamlit
 experience:
   - title: Job Title 1
     duration: Apr 2016 - Now
@@ -42,14 +42,14 @@ experience:
     company: Your 3rd Co, Ltd.
     description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 projects:
-  - name: Project Name 1
-    description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Contributor.
-  - name: Project Name 2
-    description: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-    contribution: Creator and maintainer.
+  - name: 个人技术博客
+    description: 基于Jekyll搭建的个人博客,记录前端学习笔记与项目经验,支持Markdown写作与评论功能.
+    contribution: 独立开发与维护
+  - name: 校园二手交易小程序。
+    description: 微信小程序，实现商品发布、浏览、交易功能，使用微信云开发+原生小程序开发
+    contribution: 前端开发与产品设计
 languages:
-  - name: English
-    proficiency: Work proficiency
-  - name: Mandarin Chinese
-    proficiency: Native
+  - name: 英语
+    proficiency: CET-4
+  - name: 中文
+    proficiency: 母语
